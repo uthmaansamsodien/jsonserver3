@@ -1,0 +1,74 @@
+{
+    "products":[
+        {
+            "ID": 1,
+            "brand": "PUMA",
+            "model": "Neymar Jr Future 2.4 FG AG",
+            "price": 4799,
+            "img": "https://i.postimg.cc/qMy6bD43/Puma-Future-Z-NJR-1-4-FG-AG-removebg-preview.png"
+        },
+        {
+            "ID": 2,
+            "brand": "NIKE",
+            "model": "Phantom GT Elite",
+            "price": 4899,
+            "img": "https://i.postimg.cc/fLD9mx69/1061956-removebg-preview.png"
+        },
+        {
+            "ID": 3,
+            "brand": "ADIDAS",
+            "model": "Predator Edge+ (JUNIOR)",
+            "price": "5499",
+            "image": "https://i.postimg.cc/CL3dbG8x/adidas-predator-edge-plus-removebg-preview.png" 
+        },
+        {
+            "ID": 4,
+            "brand": "NEW BALANCE",
+            "model": "NB Furon v6",
+            "price": "1499",
+            "image": "https://i.postimg.cc/MZty0FZK/5f68d0a5bbb7f-removebg-preview.png"
+        },
+        {
+            "ID": 5,
+            "brand": "UNDER ARMOUR",
+            "model": "ClutchFit 3.0 Hybrid SG",
+            "price": "2899",
+            "image": "https://i.postimg.cc/90NR6szd/1235575-removebg-preview.png"
+        },
+        {
+            "ID": 6,
+            "brand": "UNDER ARMOUR",
+            "model": "Clone Magnetico Pro",
+            "price": "2899",
+            "image": "https://i.postimg.cc/05JzjX6B/Rebel-62717101-whiteblue-hi-res-removebg-preview.png"
+        },
+        {
+            "ID": 7,
+            "brand": "ADIDAS",
+            "model": "X SpeedPortal.3",
+            "price": "2199",
+            "image": "https://i.postimg.cc/6q75vq5Z/adidas-x-speedportal-3-mg-removebg-preview.png"
+        }, 
+        {
+            "ID": 8,
+            "brand":  "PUMA",
+            "model": "Future Ultimate (BLACK)",
+            "price": "3599",
+            "image": "https://i.postimg.cc/SxfCbqTp/107164-02-sv01-removebg-preview.png"
+        },
+        {
+            "ID": 9,
+            "brand":  "NIKE",
+            "model": "CR7 Mercurial 'Campeões'",
+           " price": "6399",
+            "image": "https://i.postimg.cc/fy3ZY8m8/ronaldo-19-min-removebg-preview.png"
+        },
+        {
+            "ID": 10,
+            "brand": "NEW BALANCE", 
+            "model": "442 v2",
+            "price": "1299",
+            "image": "https://i.postimg.cc/fy0DbPBj/M-JS43-FWD2-M-WHITE-V3-550x550-removebg-preview.png"
+        }
+    ]
+}
